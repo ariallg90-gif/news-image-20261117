@@ -368,8 +368,8 @@ def draw_jets(c, x, y, w, h):
 STORIES = [
     ("MIDDLE EAST", "US STRIKES IRAN",
      "US warplanes hit a missile site on Qeshm Island after attacks on "
-     "ships in the Strait of Hormuz. Tankers burned; a dirty-bomb scare "
-     "was denied by Tehran.", draw_gulf),
+     "ships in the Strait of Hormuz. Tehran denied a dirty-bomb scare.",
+     draw_gulf),
     ("EUROPE", "KERCH BRIDGE HIT",
      "Ukraine struck the bridge linking Russia to Crimea. A road span "
      "collapsed into the water, and Russia vowed to rebuild it.",
